@@ -1,7 +1,7 @@
 ---
-title: 'Third post'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 22 2022'
+title: 'PySoccer'
+description: 'Juego hecho en Python con la utilizacion de POO'
+pubDate: 'Sept 22 2024'
 heroImage: '/blog-placeholder-2.jpg'
 ---
 
